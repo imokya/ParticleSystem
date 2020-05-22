@@ -8,3 +8,4 @@ const particleSystem = new ParticleSystem()
 particleSystem.emitter = new FlameEmitter()
 particleSystem.start()
 scene.add(particleSystem.mesh)
+`
