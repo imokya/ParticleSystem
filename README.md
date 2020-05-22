@@ -9,3 +9,6 @@ particleSystem.emitter = new FlameEmitter()
 particleSystem.start()
 scene.add(particleSystem.mesh)
 ```
+### 构建
+npm run dev
+npm run build
